@@ -1,4 +1,6 @@
-# drawing-robot-in-V-REP-
+# drawing-robot-in-V-REP
+![](support/draw.png)
+
 Drawing Robot in V-REP with help of MATLAB (for Image processing)
 
 NOTE-
