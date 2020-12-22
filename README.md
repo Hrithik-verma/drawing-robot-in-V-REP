@@ -19,14 +19,16 @@ How to run simulation-
 Understand MATLAB code-
 
 ![](support/change.PNG)
+
 This part of code is just to convert input image to binary 
 note that input image is a colour image if you are having binary image than you can directly calculate boundries 
 
 ![](support/trajectory.PNG)
+
 Using simple 3D plot method motion trajectory is generated. 
 z=0 when lines (x and y value) are continuous means it will draw in paper till lines are continuous
 if lines are not continous than z=30 its means it will pick up its hand than move to point where line are continious 
 Its exactly the way a human draws
 
-![](support/scale.PNG)
+![](support/scale.png)
 its just the scale factor to adjust robot arm such that it draws within the page
