@@ -1,7 +1,10 @@
 # drawing-robot-in-V-REP
 ![](support/draw.PNG)
 
-Drawing Robot in V-REP with help of MATLAB (for Image processing)
+Drawing Robot in V-REP with help of MATLAB (for Image processing).
+Input image is processed in MATLAB and image edges are detected.
+Using simple 3D plot method motion trajectory is generated. This trajectory coordinated are send one by one to simulator.
+Using inverse kinematics method end-effector of robot arm follow the coordinates
 
 NOTE-
 
