@@ -8,5 +8,7 @@ NOTE-
 
 How to run simulation-
              
-             1.Firstly start V-rep scene drawing.ttt      
-             2.Than run matlab file code.m
+            Makesure matlab file code.m and image doremon.jpg are on same folder
+            (if you want to input any other image makesure its in rgb formate (colour image) and it should be in the same folder)
+            1.Firstly start V-rep scene drawing.ttt
+            2.Than run matlab file code.m 
