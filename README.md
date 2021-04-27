@@ -9,7 +9,8 @@ Using inverse kinematics method end-effector of robot arm follow the coordinates
 NOTE-
 
       1.Before starting anything remApi.m ,remoteApiProto.m ,the appropriate remote API library: "remoteApi.dll" (Windows) are on same folder where matlab code is placed.
-      2.Check connection of V-rep with matlab by opening any of the scene, stating simulation and running simpleTest.m in matlab to check matlab-vrep are connected or not.
+      2.My version of V-rep is 4.0. If u have different version than please remoteApi.dll (from ur vrep installed  location C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\remoteApiBindings\lib\lib\Windows) and remApi.m,remoteApiProt.m and simpleTest.m  (from C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\remoteApiBindings\matlab\matlab )
+      3.Check connection of V-rep with matlab by opening any of the scene, stating simulation and running simpleTest.m in matlab to check matlab-vrep are connected or not.
 
 How to run simulation-
              
